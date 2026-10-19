@@ -1,7 +1,7 @@
 #square{
     width:150px;
     height:150px;
-    background-color: pink;
+    background-color: brickred;
 }  
 #rectangle{
     width:200px;
@@ -14,7 +14,7 @@
     height:100px;
     transform: rotate(45deg);
     margin-left: 30px;
-    background-color: purple;
+    background-color: black;
     margin-top: 50px;
 }
 #triangle{
